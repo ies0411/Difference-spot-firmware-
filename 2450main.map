@@ -1,0 +1,1517 @@
+Archive member included because of file (symbol)
+
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+                              Lcd.o (vsprintf)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o) (_impure_ptr)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o) (_svfprintf_r)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (_dtoa_r)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (_localeconv_r)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (_malloc_r)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (memchr)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (memcpy)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o) (_Balloc)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (__fpclassifyd)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o) (strcmp)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (strlen)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (__ssprint_r)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o) (_calloc_r)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o) (_free_r)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o) (memmove)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-callocr.o) (memset)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o) (_realloc_r)
+/root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o) (errno)
+/root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+                              Lcd.o (__aeabi_uidiv)
+/root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+                              /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+                              exception.o (__aeabi_dsub)
+/root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+                              exception.o (__aeabi_dmul)
+/root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+/root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+                              exception.o (__aeabi_d2iz)
+/root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixunsdfsi.o)
+                              Uart.o (__aeabi_d2uiz)
+/root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+                              /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+/root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+                              /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+/root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+                              /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o) (__divdi3)
+/root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                              /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o) (__udivdi3)
+/root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+                              /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o) (__clzsi2)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+CODE             0x30000000         0x04000000         rw
+_ISR_START       0x33ffff00         0x00000100         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+
+.text           0x30000000    0x10764
+ *s3c2450_startup.o(.text)
+ .text          0x30000000      0x300 s3c2450_startup.o
+                0x30000000                _start
+                0x300000b0                ResetHandler
+                0x300001a8                IsrIRQ
+                0x30000254                _sbrk
+ *(.text)
+ .text          0x30000300      0x6e4 libc.o
+                0x30000300                MMU_Init
+                0x3000056c                MMU_SetMTT
+                0x30000624                ChangeRomCacheStatus
+                0x300006f0                malloc
+                0x30000790                free
+                0x300007c0                Led_Port_Init
+                0x300007d8                Led_Display
+                0x300007f8                start_timer0
+                0x3000084c                stop_timer0
+                0x30000874                time
+                0x300008a4                MemFill
+                0x30000914                MemDump
+ .text          0x300009e4     0x2c0c Lcd.o
+                0x300009e4                Lcd_Port_Init
+                0x30000b0c                NonPal_Lcd_Init
+                0x30000c30                NonPal_Put_Pixel
+                0x30000c8c                Lcd_Draw_BMP
+                0x30000f7c                Lcd_Puts
+                0x3000115c                Lcd_Printf
+                0x300011c0                Lcd_Puts_big
+                0x30001580                Lcd_Buffer_back
+                0x300018bc                Lcd_Buffer_screen1
+                0x30001bf8                Lcd_Buffer_screen2
+                0x30001f34                Lcd_Buffer_screen3
+                0x30002270                Lcd_Buffer_char
+                0x300025b4                Lcd_Buffer_lim
+                0x300028f0                Lcd_Buffer_o
+                0x30002c2c                Lcd_Buffer_x
+                0x30002f68                Lcd_Buffer_explain
+                0x300032ac                Lcd_Buffer_option
+ .text          0x300035f0      0x738 Main.o
+                0x300035f0                Init_LED
+                0x3000364c                Option
+                0x30003794                Explain_fuction
+                0x30003894                Main
+ .text          0x30003d28      0x270 Uart.o
+                0x30003d28                Uart_Init
+                0x30003e34                Uart_Printf
+                0x30003e7c                Uart_Send_String
+                0x30003ecc                Uart_Send_Byte
+                0x30003f50                Uart_Get_Char
+ .text          0x30003f98      0x750 exception.o
+                0x30003f98                SWI_Handler
+                0x30003fb4                Undef_Handler
+                0x30003fd0                Pabort_Handler
+                0x3000400c                Dabort_Handler
+                0x30004048                Touch_ISR
+                0x300045fc                Exception_Init
+ .text          0x300046e8      0x6fc Key.o
+                0x300046e8                Key_IRQ_Port_Init
+                0x300047f4                EINT2_
+                0x300048c8                EINT3_
+                0x30004998                EINT4_7
+                0x30004c04                Timer0_ISR
+                0x30004cd8                MENU
+ .text          0x30004de4     0x1b14 GAME.o
+                0x30004de4                Timer2_ISR
+                0x30004e98                End_fail
+                0x30004f44                End_Sucess
+                0x30005104                GAME1_
+                0x3000569c                GAME2_
+                0x30006150                GAME3_
+ .text          0x300068f8      0x280 rtc.o
+                0x300068f8                Timer1_ISR
+                0x30006a94                Rtc_Init
+ .text          0x30006b78      0x3d0 Timer.o
+                0x30006b78                Timer_Init
+                0x30006c6c                Timer_Delay_0
+                0x30006d34                Timer_Delay_1
+                0x30006de8                Timer_Delay_2
+                0x30006e98                Timer_Delay_3
+ .text          0x30006f48      0x15c Touch.o
+                0x30006f48                Touch_Init
+ .text          0x300070a4      0x684 Dma.o
+                0x300070a4                DMA0_SW_Init
+                0x30007184                DMA1_SW_Init
+                0x30007258                DMA0_Timer_Init
+                0x30007324                DMA0_UART_Init
+                0x300073f0                DMA0_SW_Start
+                0x300074dc                DMA1_SW_Start
+                0x30007618                DMA0_HW_Start
+ .text          0x30007728      0x15c buzzer.o
+                0x30007728                Timer3_ISR
+                0x300077dc                Buzzer_Init
+                0x30007838                Buzzer_timer
+ .text          0x30007884      0x2c8 who.o
+                0x30007884                Who_fuction
+ .text          0x30007b4c      0x224 libs.o
+                0x30007b4c                HOW_TO_RETURN
+                0x30007b50                CONDITIONAL_EXECUTE
+                0x30007b54                DATA_PROCESS1
+                0x30007b58                DATA_PROCESS2
+                0x30007b5c                SUM_OF_DEC
+                0x30007b64                GRT_COM_MES
+                0x30007b78                MEMCPY_SINGLE
+                0x30007b80                MEMCPY_MULTIPLE
+                0x30007b88                MEMCPY
+                0x30007be4                SET_IF
+                0x30007bf8                WR_IF
+                0x30007c00                CLR_IF
+                0x30007c10                MMU_EnableICache
+                0x30007c20                MMU_DisableICache
+                0x30007c30                MMU_EnableDCache
+                0x30007c40                MMU_DisableDCache
+                0x30007c50                MMU_EnableAlignFault
+                0x30007c60                MMU_DisableAlignFault
+                0x30007c70                MMU_EnableMMU
+                0x30007c80                MMU_DisableMMU
+                0x30007c90                MMU_SetFastBusMode
+                0x30007ca4                MMU_SetAsyncBusMode
+                0x30007cb8                MMU_SetTTBase
+                0x30007cc0                MMU_SetDomain
+                0x30007cc8                MMU_InvalidateIDCache
+                0x30007cd0                MMU_InvalidateICache
+                0x30007cd8                MMU_InvalidateICacheMVA
+                0x30007ce0                MMU_PrefetchICacheMVA
+                0x30007ce8                MMU_InvalidateDCache
+                0x30007cf0                MMU_InvalidateDCacheMVA
+                0x30007cf8                MMU_CleanDCacheMVA
+                0x30007d00                MMU_CleanInvalidateDCacheMVA
+                0x30007d08                MMU_CleanDCacheIndex
+                0x30007d10                MMU_CleanInvalidateDCacheIndex
+                0x30007d18                MMU_WaitForInterrupt
+                0x30007d20                MMU_InvalidateTLB
+                0x30007d28                MMU_InvalidateITLB
+                0x30007d30                MMU_InvalidateITLBMVA
+                0x30007d38                MMU_InvalidateDTLB
+                0x30007d40                MMU_InvalidateDTLBMVA
+                0x30007d48                MMU_SetDCacheLockdownBase
+                0x30007d50                MMU_SetICacheLockdownBase
+                0x30007d58                MMU_SetDTLBLockdown
+                0x30007d60                MMU_SetITLBLockdown
+                0x30007d68                MMU_SetProcessId
+ .text          0x30007d70       0x7c /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+                0x30007d70                _vsprintf_r
+                0x30007dc0                vsprintf
+ .text          0x30007dec        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .text          0x30007dec     0x2138 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+                0x30007dec                _svfprintf_r
+ *fill*         0x30009f24        0x4 00
+ .text          0x30009f28     0x17d0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                0x3000a0f8                _dtoa_r
+ .text          0x3000b6f8       0xd0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x3000b6f8                _setlocale_r
+                0x3000b764                __locale_charset
+                0x3000b770                __locale_mb_cur_max
+                0x3000b780                __locale_msgcharset
+                0x3000b78c                __locale_cjk_lang
+                0x3000b794                _localeconv_r
+                0x3000b7a0                setlocale
+                0x3000b7bc                localeconv
+ .text          0x3000b7c8      0x70c /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x3000b7c8                _malloc_r
+ .text          0x3000bed4      0x104 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+                0x3000bed4                memchr
+ .text          0x3000bfd8      0x1c0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+                0x3000bfd8                memcpy
+ .text          0x3000c198        0x8 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                0x3000c198                __malloc_lock
+                0x3000c19c                __malloc_unlock
+ .text          0x3000c1a0      0xcfc /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x3000c1a0                _Balloc
+                0x3000c228                _Bfree
+                0x3000c244                __multadd
+                0x3000c320                __s2b
+                0x3000c40c                __hi0bits
+                0x3000c45c                __lo0bits
+                0x3000c4ec                __i2b
+                0x3000c510                __multiply
+                0x3000c6f8                __pow5mult
+                0x3000c7ec                __lshift
+                0x3000c8f0                __mcmp
+                0x3000c950                __mdiff
+                0x3000caa8                __ulp
+                0x3000cb08                __b2d
+                0x3000cbcc                __d2b
+                0x3000ccd4                __ratio
+                0x3000cd4c                _mprec_log10
+                0x3000cda0                __copybits
+                0x3000ce14                __any_on
+ .text          0x3000ce9c       0x8c /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+                0x3000ce9c                __fpclassifyd
+ .text          0x3000cf28       0x40 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                0x3000cf28                _sbrk_r
+ .text          0x3000cf68      0x230 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                0x3000cf68                strcmp
+ .text          0x3000d198       0x60 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+                0x3000d198                strlen
+ .text          0x3000d1f8     0x1238 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                0x3000d1f8                __ssprint_r
+                0x3000d394                _svfiprintf_r
+ .text          0x3000e430       0x9c /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+                0x3000e430                _calloc_r
+ .text          0x3000e4cc      0x360 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                0x3000e4cc                _malloc_trim_r
+                0x3000e5c8                _free_r
+ .text          0x3000e82c      0x128 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                0x3000e82c                memmove
+ .text          0x3000e954      0x100 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                0x3000e954                memset
+ .text          0x3000ea54      0x5c0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                0x3000ea54                _realloc_r
+ .text          0x3000f014      0x1ac /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x3000f014                cleanup_glue
+                0x3000f040                _reclaim_reent
+                0x3000f148                _wrapup_reent
+ .text          0x3000f1c0      0x114 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+                0x3000f1c0                __udivsi3
+                0x3000f1c0                __aeabi_uidiv
+                0x3000f2b4                __aeabi_uidivmod
+ .text          0x3000f2d4        0x4 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+                0x3000f2d4                __aeabi_ldiv0
+                0x3000f2d4                __aeabi_idiv0
+ .text          0x3000f2d8      0x41c /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+                0x3000f2d8                __aeabi_drsub
+                0x3000f2e0                __aeabi_dsub
+                0x3000f2e0                __subdf3
+                0x3000f2e4                __adddf3
+                0x3000f2e4                __aeabi_dadd
+                0x3000f5f4                __aeabi_ui2d
+                0x3000f5f4                __floatunsidf
+                0x3000f618                __floatsidf
+                0x3000f618                __aeabi_i2d
+                0x3000f640                __extendsfdf2
+                0x3000f640                __aeabi_f2d
+                0x3000f680                __aeabi_ul2d
+                0x3000f680                __floatundidf
+                0x3000f694                __floatdidf
+                0x3000f694                __aeabi_l2d
+ .text          0x3000f6f4      0x49c /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+                0x3000f6f4                __aeabi_dmul
+                0x3000f6f4                __muldf3
+                0x3000f984                __aeabi_ddiv
+                0x3000f984                __divdf3
+ .text          0x3000fb90      0x144 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+                0x3000fb90                __gtdf2
+                0x3000fb90                __gedf2
+                0x3000fb98                __ltdf2
+                0x3000fb98                __ledf2
+                0x3000fba0                __cmpdf2
+                0x3000fba0                __eqdf2
+                0x3000fba0                __nedf2
+                0x3000fc28                __aeabi_cdrcmple
+                0x3000fc44                __aeabi_cdcmple
+                0x3000fc44                __aeabi_cdcmpeq
+                0x3000fc5c                __aeabi_dcmpeq
+                0x3000fc74                __aeabi_dcmplt
+                0x3000fc8c                __aeabi_dcmple
+                0x3000fca4                __aeabi_dcmpge
+                0x3000fcbc                __aeabi_dcmpgt
+ .text          0x3000fcd4       0x5c /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+                0x3000fcd4                __fixdfsi
+                0x3000fcd4                __aeabi_d2iz
+ .text          0x3000fd30       0x54 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixunsdfsi.o)
+                0x3000fd30                __fixunsdfsi
+                0x3000fd30                __aeabi_d2uiz
+ .text          0x3000fd84       0x3c /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+                0x3000fd84                __aeabi_uldivmod
+ .text          0x3000fdc0       0x80 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+                0x3000fdc0                __gnu_ldivmod_helper
+                0x3000fe00                __gnu_uldivmod_helper
+ .text          0x3000fe40      0x4a8 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+                0x3000fe40                __divdi3
+ .text          0x300102e8      0x434 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                0x300102e8                __udivdi3
+ .text          0x3001071c       0x48 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+                0x3001071c                __clzsi2
+                0x30010764                . = ALIGN (0x4)
+
+.glue_7         0x30010764        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x30010764        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x30010764        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x30010764        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.rodata         0x30010768   0x209024
+                0x30010768                rodata_start_addr = .
+ *(.rodata)
+ .rodata        0x30010768       0x4c libc.o
+ .rodata        0x300107b4     0x1010 Lcd.o
+                0x300107b4                eng8x16
+ .rodata        0x300117c4   0x207bb8 Main.o
+                0x300117c4                background
+                0x3007881c                limit_time
+                0x3008a194                Explain
+                0x3009bb0c                PIC0
+                0x300fa464                PIC1
+                0x30159e9c                PIC2
+                0x301b98d4                lim
+                0x30217c8c                o
+                0x30218804                x
+ .rodata        0x3021937c       0xb8 exception.o
+ .rodata        0x30219434       0x78 Key.o
+ .rodata        0x302194ac       0x88 GAME.o
+ .rodata        0x30219534        0xc rtc.o
+ .rodata        0x30219540       0x70 Dma.o
+ .rodata        0x302195b0        0x8 buzzer.o
+ .rodata        0x302195b8        0x4 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x302195b8                _global_impure_ptr
+ .rodata        0x302195bc       0x20 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ *fill*         0x302195dc        0x4 00
+ .rodata        0x302195e0      0x128 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                0x302195f0                __mprec_tens
+                0x302196b8                __mprec_bigtens
+                0x302196e0                __mprec_tinytens
+ .rodata        0x30219708       0x20 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ *(.rodata.*)
+ .rodata.str1.4
+                0x30219728        0x2 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x3021972a        0x2 00
+ .rodata.str1.4
+                0x3021972c       0x42 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+                                 0x44 (size before relaxing)
+ *fill*         0x3021976e        0x2 00
+ .rodata.str1.4
+                0x30219770       0x10 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x30219780        0xc /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x00000000       0x30 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                0x3021978c                . = ALIGN (0x4)
+                0x3021978c                rodata_end_addr = .
+
+.ARM.extab      0x3021978c        0x0
+ .ARM.extab     0x3021978c        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .ARM.extab     0x3021978c        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+
+.ARM.exidx      0x3021978c        0x8
+ .ARM.exidx     0x3021978c        0x8 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x30219794        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+
+.data           0x30219798     0x1fc0
+                0x30219798                data_start_addr = .
+                0x30219798                __DATA_START__ = .
+ *(.data)
+ .data          0x30219798        0x0 s3c2450_startup.o
+ .data          0x30219798        0x4 libc.o
+                0x30219798                mallocPt
+ .data          0x3021979c        0x0 Lcd.o
+ .data          0x3021979c     0x16e8 Main.o
+                0x3021979c                run
+ .data          0x3021ae84        0x0 Uart.o
+ .data          0x3021ae84        0x0 exception.o
+ .data          0x3021ae84        0x0 Key.o
+ .data          0x3021ae84        0x0 GAME.o
+ .data          0x3021ae84        0x4 rtc.o
+                0x3021ae84                Limit_min
+ .data          0x3021ae88        0x0 Timer.o
+ .data          0x3021ae88        0x0 Touch.o
+ .data          0x3021ae88        0xc Dma.o
+                0x3021ae88                src
+                0x3021ae8c                dst
+                0x3021ae90                size
+ .data          0x3021ae94        0x0 buzzer.o
+ .data          0x3021ae94        0x0 who.o
+ .data          0x3021ae94        0x0 libs.o
+ .data          0x3021ae94        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+ *fill*         0x3021ae94        0x4 00
+ .data          0x3021ae98      0x430 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x3021ae98                _impure_ptr
+ .data          0x3021b2c8        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .data          0x3021b2c8        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .data          0x3021b2c8       0x7c /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x3021b2e8                __mb_cur_max
+ .data          0x3021b344      0x410 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x3021b344                __malloc_av_
+                0x3021b74c                __malloc_sbrk_base
+                0x3021b750                __malloc_trim_threshold
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+ .data          0x3021b754        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+ *(.data.*)
+                0x3021b758                . = ALIGN (0x8)
+ *fill*         0x3021b754        0x4 00
+                0x3021b758                data_end_addr = .
+                0x3021b758                __DATA_END__ = .
+
+.bss            0x3021b758   0x32fae0
+                0x3021b758                bss_start_addr = .
+                0x3021b758                __BSS_START__ = .
+ *(.bss)
+ .bss           0x3021b758        0x0 s3c2450_startup.o
+ .bss           0x3021b758        0x0 libc.o
+ .bss           0x3021b758   0x32fa58 Lcd.o
+                0x3021b758                fullscreen_buffer_1
+                0x3029af58                fullscreen_buffer_2
+                0x3031a758                fullscreen_buffer_3
+                0x30399f58                background_buffer
+                0x30419758                char_buffer
+                0x3041b598                Buffer_lim
+                0x3049ad98                Buffer_x
+                0x3049bc98                Buffer_o
+                0x3049cb98                Buffer_explain
+                0x304b4298                Buffer_option
+                0x304cb998                TIMER_buffer
+ .bss           0x3054b1b0        0x0 Main.o
+ .bss           0x3054b1b0        0x0 Uart.o
+ .bss           0x3054b1b0        0xc exception.o
+                0x3054b1b0                ADC_x
+                0x3054b1b4                ADC_y
+                0x3054b1b8                Touch_Pressed
+ .bss           0x3054b1bc        0x8 Key.o
+                0x3054b1bc                menu_select
+ .bss           0x3054b1c4       0x14 GAME.o
+                0x3054b1c4                Lanking_num
+                0x3054b1d0                Sum_num
+ .bss           0x3054b1d8       0x14 rtc.o
+                0x3054b1d8                min
+                0x3054b1dc                sec
+                0x3054b1e0                temp
+                0x3054b1e4                d_min
+                0x3054b1e8                d_sec
+ .bss           0x3054b1ec        0x0 Timer.o
+ .bss           0x3054b1ec        0x0 Touch.o
+ .bss           0x3054b1ec        0x4 Dma.o
+                0x3054b1ec                pattern
+ .bss           0x3054b1f0        0x4 buzzer.o
+ .bss           0x3054b1f4        0x0 who.o
+ .bss           0x3054b1f4        0x0 libs.o
+ .bss           0x3054b1f4        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+ .bss           0x3054b1f4        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .bss           0x3054b1f4        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .bss           0x3054b1f4        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .bss           0x3054b1f4        0xc /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                0x3054b1f4                __nlocale_changed
+                0x3054b1f8                __mlocale_changed
+                0x3054b1fc                _PathLocale
+ .bss           0x3054b200       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x3054b200                __malloc_top_pad
+                0x3054b204                __malloc_current_mallinfo
+                0x3054b22c                __malloc_max_sbrked_mem
+                0x3054b230                __malloc_max_total_mem
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+ .bss           0x3054b234        0x0 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+ *(.bss.*)
+ *(COMMON)
+ COMMON         0x3054b234        0x4 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x3054b234                errno
+                0x3054b238                . = ALIGN (0x8)
+                0x3054b238                bss_end_addr = .
+                0x3054b238                __BSS_END__ = .
+                0x3054b238                end = .
+                0x3054b238                PROVIDE (end, .)
+
+.int_vec        0x33ffff00       0xc0
+ s3c2450_startup.o(int_vect)
+ int_vect       0x33ffff00       0xc0 s3c2450_startup.o
+                0x33ffff00                HandleReset
+                0x33ffff04                HandleUndef
+                0x33ffff08                HandleSWI
+                0x33ffff0c                HandlePabort
+                0x33ffff10                HandleDabort
+                0x33ffff14                HandleReserved
+                0x33ffff18                HandleIRQ
+                0x33ffff1c                HandleFIQ
+                0x33ffff20                HandleEINT0
+                0x33ffff24                HandleEINT1
+                0x33ffff28                HandleEINT2
+                0x33ffff2c                HandleEINT3
+                0x33ffff30                HandleEINT4_7
+                0x33ffff34                HandleEINT8_23
+                0x33ffff38                HandleCAM
+                0x33ffff3c                HandleBATFLT
+                0x33ffff40                HandleTICK
+                0x33ffff44                HandleWDT
+                0x33ffff48                HandleTIMER0
+                0x33ffff4c                HandleTIMER1
+                0x33ffff50                HandleTIMER2
+                0x33ffff54                HandleTIMER3
+                0x33ffff58                HandleTIMER4
+                0x33ffff5c                HandleUART2
+                0x33ffff60                HandleLCD
+                0x33ffff64                HandleDMA
+                0x33ffff68                HandleUART3
+                0x33ffff6c                HandleCFCON
+                0x33ffff70                HandleSDI1
+                0x33ffff74                HandleSDI0
+                0x33ffff78                HandleSPI0
+                0x33ffff7c                HandleUART1
+                0x33ffff80                HandleNFCON
+                0x33ffff84                HandleUSBD
+                0x33ffff88                HandleUSBH
+                0x33ffff8c                HandleIIC
+                0x33ffff90                HandleUART0
+                0x33ffff94                HandleSPI1
+                0x33ffff98                HandleRTC
+                0x33ffff9c                HandleADC
+                0x33ffffa0                Handle2D
+                0x33ffffa4                HandleIIC1
+                0x33ffffa8                HandleRSV1
+                0x33ffffac                HandleRSV2
+                0x33ffffb0                HandlePCM0
+                0x33ffffb4                HandlePCM1
+                0x33ffffb8                HandleI2S0
+                0x33ffffbc                HandleI2S1
+LOAD libc.o
+LOAD Lcd.o
+LOAD Main.o
+LOAD Uart.o
+LOAD exception.o
+LOAD Key.o
+LOAD GAME.o
+LOAD rtc.o
+LOAD Timer.o
+LOAD Touch.o
+LOAD Dma.o
+LOAD buzzer.o
+LOAD who.o
+LOAD s3c2450_startup.o
+LOAD libs.o
+LOAD /root/arm-2011.03/arm-none-eabi/lib/libc.a
+LOAD /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a
+LOAD /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a
+OUTPUT(MDS2450 elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x28
+ .ARM.attributes
+                0x00000000       0x1c s3c2450_startup.o
+ .ARM.attributes
+                0x0000001c       0x2c libc.o
+ .ARM.attributes
+                0x00000048       0x2c Lcd.o
+ .ARM.attributes
+                0x00000074       0x2c Main.o
+ .ARM.attributes
+                0x000000a0       0x2c Uart.o
+ .ARM.attributes
+                0x000000cc       0x2c exception.o
+ .ARM.attributes
+                0x000000f8       0x2c Key.o
+ .ARM.attributes
+                0x00000124       0x2c GAME.o
+ .ARM.attributes
+                0x00000150       0x2c rtc.o
+ .ARM.attributes
+                0x0000017c       0x2c Timer.o
+ .ARM.attributes
+                0x000001a8       0x2c Touch.o
+ .ARM.attributes
+                0x000001d4       0x2c Dma.o
+ .ARM.attributes
+                0x00000200       0x2c buzzer.o
+ .ARM.attributes
+                0x0000022c       0x2c who.o
+ .ARM.attributes
+                0x00000258       0x1c libs.o
+ .ARM.attributes
+                0x00000274       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+ .ARM.attributes
+                0x000002a8       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000002dc       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x00000310       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x00000344       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x00000378       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x000003ac       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x000003e0       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000414       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000448       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x0000047c       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x000004b0       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000004e4       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000518       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000054c       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x00000580       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x000005b4       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x000005e8       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000061c       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000650       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000684       0x34 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000006b8       0x1a /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000006d2       0x18 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000006ea       0x1a /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000704       0x1a /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000071e       0x1a /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000738       0x1a /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000752       0x1a /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x0000076c       0x1a /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000786       0x34 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x000007ba       0x34 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x000007ee       0x34 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x00000822       0x1a /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+
+.comment        0x00000000       0x2a
+ .comment       0x00000000       0x2a libc.o
+                                 0x2b (size before relaxing)
+ .comment       0x00000000       0x2b Lcd.o
+ .comment       0x00000000       0x2b Main.o
+ .comment       0x00000000       0x2b Uart.o
+ .comment       0x00000000       0x2b exception.o
+ .comment       0x00000000       0x2b Key.o
+ .comment       0x00000000       0x2b GAME.o
+ .comment       0x00000000       0x2b rtc.o
+ .comment       0x00000000       0x2b Timer.o
+ .comment       0x00000000       0x2b Touch.o
+ .comment       0x00000000       0x2b Dma.o
+ .comment       0x00000000       0x2b buzzer.o
+ .comment       0x00000000       0x2b who.o
+
+.debug_line     0x00000000     0x1143
+ .debug_line    0x00000000       0xbe s3c2450_startup.o
+ .debug_line    0x000000be       0xfe libc.o
+ .debug_line    0x000001bc      0x368 Lcd.o
+ .debug_line    0x00000524      0x1c6 Main.o
+ .debug_line    0x000006ea       0xc7 Uart.o
+ .debug_line    0x000007b1       0xc7 exception.o
+ .debug_line    0x00000878       0xdb Key.o
+ .debug_line    0x00000953      0x448 GAME.o
+ .debug_line    0x00000d9b       0x51 rtc.o
+ .debug_line    0x00000dec       0x78 Timer.o
+ .debug_line    0x00000e64       0x46 Touch.o
+ .debug_line    0x00000eaa       0x8b Dma.o
+ .debug_line    0x00000f35       0x4b buzzer.o
+ .debug_line    0x00000f80       0xc1 who.o
+ .debug_line    0x00001041      0x102 libs.o
+
+.debug_info     0x00000000     0x294d
+ .debug_info    0x00000000       0x50 s3c2450_startup.o
+ .debug_info    0x00000050      0x497 libc.o
+ .debug_info    0x000004e7      0xc90 Lcd.o
+ .debug_info    0x00001177      0x6cd Main.o
+ .debug_info    0x00001844      0x174 Uart.o
+ .debug_info    0x000019b8      0x1f4 exception.o
+ .debug_info    0x00001bac      0x194 Key.o
+ .debug_info    0x00001d40      0x658 GAME.o
+ .debug_info    0x00002398      0x168 rtc.o
+ .debug_info    0x00002500       0xde Timer.o
+ .debug_info    0x000025de       0x3b Touch.o
+ .debug_info    0x00002619      0x143 Dma.o
+ .debug_info    0x0000275c       0xb4 buzzer.o
+ .debug_info    0x00002810       0xf8 who.o
+ .debug_info    0x00002908       0x45 libs.o
+
+.debug_abbrev   0x00000000      0xb26
+ .debug_abbrev  0x00000000       0x14 s3c2450_startup.o
+ .debug_abbrev  0x00000014      0x185 libc.o
+ .debug_abbrev  0x00000199      0x172 Lcd.o
+ .debug_abbrev  0x0000030b      0x137 Main.o
+ .debug_abbrev  0x00000442       0xf3 Uart.o
+ .debug_abbrev  0x00000535       0xc7 exception.o
+ .debug_abbrev  0x000005fc       0xe1 Key.o
+ .debug_abbrev  0x000006dd      0x14e GAME.o
+ .debug_abbrev  0x0000082b       0xcb rtc.o
+ .debug_abbrev  0x000008f6       0x6f Timer.o
+ .debug_abbrev  0x00000965       0x29 Touch.o
+ .debug_abbrev  0x0000098e       0x78 Dma.o
+ .debug_abbrev  0x00000a06       0x90 buzzer.o
+ .debug_abbrev  0x00000a96       0x7c who.o
+ .debug_abbrev  0x00000b12       0x14 libs.o
+
+.debug_aranges  0x00000000      0x1e0
+ .debug_aranges
+                0x00000000       0x20 s3c2450_startup.o
+ .debug_aranges
+                0x00000020       0x20 libc.o
+ .debug_aranges
+                0x00000040       0x20 Lcd.o
+ .debug_aranges
+                0x00000060       0x20 Main.o
+ .debug_aranges
+                0x00000080       0x20 Uart.o
+ .debug_aranges
+                0x000000a0       0x20 exception.o
+ .debug_aranges
+                0x000000c0       0x20 Key.o
+ .debug_aranges
+                0x000000e0       0x20 GAME.o
+ .debug_aranges
+                0x00000100       0x20 rtc.o
+ .debug_aranges
+                0x00000120       0x20 Timer.o
+ .debug_aranges
+                0x00000140       0x20 Touch.o
+ .debug_aranges
+                0x00000160       0x20 Dma.o
+ .debug_aranges
+                0x00000180       0x20 buzzer.o
+ .debug_aranges
+                0x000001a0       0x20 who.o
+ .debug_aranges
+                0x000001c0       0x20 libs.o
+
+.debug_loc      0x00000000      0xce4
+ .debug_loc     0x00000000      0x210 libc.o
+ .debug_loc     0x00000210      0x2ec Lcd.o
+ .debug_loc     0x000004fc       0xb0 Main.o
+ .debug_loc     0x000005ac       0xdc Uart.o
+ .debug_loc     0x00000688      0x108 exception.o
+ .debug_loc     0x00000790      0x108 Key.o
+ .debug_loc     0x00000898      0x108 GAME.o
+ .debug_loc     0x000009a0       0x58 rtc.o
+ .debug_loc     0x000009f8       0xdc Timer.o
+ .debug_loc     0x00000ad4       0x2c Touch.o
+ .debug_loc     0x00000b00      0x134 Dma.o
+ .debug_loc     0x00000c34       0x84 buzzer.o
+ .debug_loc     0x00000cb8       0x2c who.o
+
+.debug_pubnames
+                0x00000000      0x7ab
+ .debug_pubnames
+                0x00000000       0xcc libc.o
+ .debug_pubnames
+                0x000000cc      0x233 Lcd.o
+ .debug_pubnames
+                0x000002ff       0xa8 Main.o
+ .debug_pubnames
+                0x000003a7       0x6a Uart.o
+ .debug_pubnames
+                0x00000411       0xa1 exception.o
+ .debug_pubnames
+                0x000004b2       0x72 Key.o
+ .debug_pubnames
+                0x00000524       0x7a GAME.o
+ .debug_pubnames
+                0x0000059e       0x69 rtc.o
+ .debug_pubnames
+                0x00000607       0x69 Timer.o
+ .debug_pubnames
+                0x00000670       0x21 Touch.o
+ .debug_pubnames
+                0x00000691       0xb6 Dma.o
+ .debug_pubnames
+                0x00000747       0x42 buzzer.o
+ .debug_pubnames
+                0x00000789       0x22 who.o
+
+.debug_pubtypes
+                0x00000000       0xa2
+ .debug_pubtypes
+                0x00000000       0x12 libc.o
+ .debug_pubtypes
+                0x00000012       0x3f Lcd.o
+ .debug_pubtypes
+                0x00000051       0x12 Main.o
+ .debug_pubtypes
+                0x00000063       0x3f Uart.o
+
+.debug_str      0x00000000      0x7c7
+ .debug_str     0x00000000      0x1de libc.o
+                                0x202 (size before relaxing)
+ .debug_str     0x000001de      0x228 Lcd.o
+                                0x2a9 (size before relaxing)
+ .debug_str     0x00000406      0x129 Main.o
+                                0x281 (size before relaxing)
+ .debug_str     0x0000052f       0x55 Uart.o
+                                 0xc3 (size before relaxing)
+ .debug_str     0x00000584       0xbb exception.o
+                                0x108 (size before relaxing)
+ .debug_str     0x0000063f       0x47 Key.o
+                                 0x89 (size before relaxing)
+ .debug_str     0x00000686       0x7e GAME.o
+                                0x190 (size before relaxing)
+ .debug_str     0x00000704       0x11 rtc.o
+                                 0x7b (size before relaxing)
+ .debug_str     0x00000715       0x1b Timer.o
+                                 0x71 (size before relaxing)
+ .debug_str     0x00000730        0x8 Touch.o
+                                 0x34 (size before relaxing)
+ .debug_str     0x00000738       0x69 Dma.o
+                                 0xb6 (size before relaxing)
+ .debug_str     0x000007a1       0x20 buzzer.o
+                                 0x79 (size before relaxing)
+ .debug_str     0x000007c1        0x6 who.o
+                                 0x57 (size before relaxing)
+
+.debug_frame    0x00000000     0x1258
+ .debug_frame   0x00000000      0x190 libc.o
+ .debug_frame   0x00000190      0x230 Lcd.o
+ .debug_frame   0x000003c0       0x90 Main.o
+ .debug_frame   0x00000450       0xbc Uart.o
+ .debug_frame   0x0000050c       0xd8 exception.o
+ .debug_frame   0x000005e4       0xec Key.o
+ .debug_frame   0x000006d0       0xd8 GAME.o
+ .debug_frame   0x000007a8       0x58 rtc.o
+ .debug_frame   0x00000800       0xc0 Timer.o
+ .debug_frame   0x000008c0       0x30 Touch.o
+ .debug_frame   0x000008f0       0xf0 Dma.o
+ .debug_frame   0x000009e0       0x78 buzzer.o
+ .debug_frame   0x00000a58       0x30 who.o
+ .debug_frame   0x00000a88       0x44 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+ .debug_frame   0x00000acc       0x3c /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x00000b08       0x64 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00000b6c       0x98 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+ .debug_frame   0x00000c04       0x3c /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000c40       0x2c /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .debug_frame   0x00000c6c       0x30 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000c9c       0x30 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000ccc      0x228 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+ .debug_frame   0x00000ef4       0x28 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x00000f1c       0x2c /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000f48       0x30 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00000f78       0x20 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_frame   0x00000f98       0x68 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x00001000       0x28 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+ .debug_frame   0x00001028       0x50 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_frame   0x00001078       0x2c /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .debug_frame   0x000010a4       0x28 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_frame   0x000010cc       0x3c /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00001108       0x68 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_frame   0x00001170       0x20 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00001190       0x50 /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+ .debug_frame   0x000011e0       0x3c /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+ .debug_frame   0x0000121c       0x3c /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+
+.debug_ranges   0x00000000       0x98
+ .debug_ranges  0x00000000       0x98 Main.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_x                                             exception.o
+                                                  GAME.o
+ADC_y                                             exception.o
+                                                  GAME.o
+Buffer_explain                                    Lcd.o
+                                                  Main.o
+Buffer_lim                                        Lcd.o
+                                                  who.o
+Buffer_o                                          Lcd.o
+                                                  GAME.o
+Buffer_option                                     Lcd.o
+                                                  Main.o
+Buffer_x                                          Lcd.o
+                                                  GAME.o
+Buzzer_Init                                       buzzer.o
+                                                  Main.o
+Buzzer_timer                                      buzzer.o
+                                                  GAME.o
+CLR_IF                                            libs.o
+CONDITIONAL_EXECUTE                               libs.o
+ChangeRomCacheStatus                              libc.o
+DATA_PROCESS1                                     libs.o
+DATA_PROCESS2                                     libs.o
+DMA0_HW_Start                                     Dma.o
+DMA0_SW_Init                                      Dma.o
+DMA0_SW_Start                                     Dma.o
+DMA0_Timer_Init                                   Dma.o
+DMA0_UART_Init                                    Dma.o
+DMA1_SW_Init                                      Dma.o
+DMA1_SW_Start                                     Dma.o
+Dabort_Handler                                    exception.o
+EINT2_                                            Key.o
+EINT3_                                            Key.o
+EINT4_7                                           Key.o
+End_Sucess                                        GAME.o
+                                                  Main.o
+End_fail                                          GAME.o
+                                                  Main.o
+Exception_Init                                    exception.o
+                                                  s3c2450_startup.o
+Explain                                           Main.o
+Explain_fuction                                   Main.o
+GAME1_                                            GAME.o
+                                                  Main.o
+GAME2_                                            GAME.o
+                                                  Main.o
+GAME3_                                            GAME.o
+                                                  Main.o
+GRT_COM_MES                                       libs.o
+HOW_TO_RETURN                                     libs.o
+Handle2D                                          s3c2450_startup.o
+HandleADC                                         s3c2450_startup.o
+                                                  exception.o
+HandleBATFLT                                      s3c2450_startup.o
+HandleCAM                                         s3c2450_startup.o
+HandleCFCON                                       s3c2450_startup.o
+HandleDMA                                         s3c2450_startup.o
+HandleDabort                                      s3c2450_startup.o
+                                                  exception.o
+HandleEINT0                                       s3c2450_startup.o
+HandleEINT1                                       s3c2450_startup.o
+HandleEINT2                                       s3c2450_startup.o
+HandleEINT3                                       s3c2450_startup.o
+HandleEINT4_7                                     s3c2450_startup.o
+HandleEINT8_23                                    s3c2450_startup.o
+HandleFIQ                                         s3c2450_startup.o
+HandleI2S0                                        s3c2450_startup.o
+HandleI2S1                                        s3c2450_startup.o
+HandleIIC                                         s3c2450_startup.o
+HandleIIC1                                        s3c2450_startup.o
+HandleIRQ                                         s3c2450_startup.o
+HandleLCD                                         s3c2450_startup.o
+HandleNFCON                                       s3c2450_startup.o
+HandlePCM0                                        s3c2450_startup.o
+HandlePCM1                                        s3c2450_startup.o
+HandlePabort                                      s3c2450_startup.o
+                                                  exception.o
+HandleRSV1                                        s3c2450_startup.o
+HandleRSV2                                        s3c2450_startup.o
+HandleRTC                                         s3c2450_startup.o
+HandleReserved                                    s3c2450_startup.o
+HandleReset                                       s3c2450_startup.o
+HandleSDI0                                        s3c2450_startup.o
+HandleSDI1                                        s3c2450_startup.o
+HandleSPI0                                        s3c2450_startup.o
+HandleSPI1                                        s3c2450_startup.o
+HandleSWI                                         s3c2450_startup.o
+                                                  exception.o
+HandleTICK                                        s3c2450_startup.o
+HandleTIMER0                                      s3c2450_startup.o
+HandleTIMER1                                      s3c2450_startup.o
+HandleTIMER2                                      s3c2450_startup.o
+HandleTIMER3                                      s3c2450_startup.o
+HandleTIMER4                                      s3c2450_startup.o
+HandleUART0                                       s3c2450_startup.o
+HandleUART1                                       s3c2450_startup.o
+HandleUART2                                       s3c2450_startup.o
+HandleUART3                                       s3c2450_startup.o
+HandleUSBD                                        s3c2450_startup.o
+HandleUSBH                                        s3c2450_startup.o
+HandleUndef                                       s3c2450_startup.o
+                                                  exception.o
+HandleWDT                                         s3c2450_startup.o
+Init_LED                                          Main.o
+IsrIRQ                                            s3c2450_startup.o
+Key_IRQ_Port_Init                                 Key.o
+Lanking_num                                       GAME.o
+Lcd_Buffer_back                                   Lcd.o
+                                                  Main.o
+Lcd_Buffer_char                                   Lcd.o
+                                                  Main.o
+Lcd_Buffer_explain                                Lcd.o
+                                                  Main.o
+Lcd_Buffer_lim                                    Lcd.o
+                                                  Main.o
+Lcd_Buffer_o                                      Lcd.o
+                                                  Main.o
+Lcd_Buffer_option                                 Lcd.o
+                                                  Main.o
+Lcd_Buffer_screen1                                Lcd.o
+                                                  Main.o
+Lcd_Buffer_screen2                                Lcd.o
+                                                  Main.o
+Lcd_Buffer_screen3                                Lcd.o
+                                                  Main.o
+Lcd_Buffer_x                                      Lcd.o
+                                                  Main.o
+Lcd_Draw_BMP                                      Lcd.o
+Lcd_Port_Init                                     Lcd.o
+                                                  Main.o
+Lcd_Printf                                        Lcd.o
+                                                  rtc.o
+                                                  GAME.o
+Lcd_Puts                                          Lcd.o
+Lcd_Puts_big                                      Lcd.o
+                                                  GAME.o
+Led_Display                                       libc.o
+Led_Port_Init                                     libc.o
+Limit_min                                         rtc.o
+                                                  GAME.o
+                                                  Main.o
+MEMCPY                                            libs.o
+MEMCPY_MULTIPLE                                   libs.o
+MEMCPY_SINGLE                                     libs.o
+MENU                                              Key.o
+                                                  Main.o
+MMU_CleanDCacheIndex                              libs.o
+MMU_CleanDCacheMVA                                libs.o
+MMU_CleanInvalidateDCacheIndex                    libs.o
+                                                  libc.o
+MMU_CleanInvalidateDCacheMVA                      libs.o
+MMU_DisableAlignFault                             libs.o
+MMU_DisableDCache                                 libs.o
+                                                  libc.o
+MMU_DisableICache                                 libs.o
+                                                  libc.o
+MMU_DisableMMU                                    libs.o
+                                                  libc.o
+MMU_EnableAlignFault                              libs.o
+                                                  libc.o
+MMU_EnableDCache                                  libs.o
+                                                  libc.o
+MMU_EnableICache                                  libs.o
+                                                  libc.o
+MMU_EnableMMU                                     libs.o
+                                                  libc.o
+MMU_Init                                          libc.o
+MMU_InvalidateDCache                              libs.o
+MMU_InvalidateDCacheMVA                           libs.o
+MMU_InvalidateDTLB                                libs.o
+MMU_InvalidateDTLBMVA                             libs.o
+MMU_InvalidateICache                              libs.o
+                                                  libc.o
+MMU_InvalidateICacheMVA                           libs.o
+MMU_InvalidateIDCache                             libs.o
+MMU_InvalidateITLB                                libs.o
+MMU_InvalidateITLBMVA                             libs.o
+MMU_InvalidateTLB                                 libs.o
+                                                  libc.o
+MMU_PrefetchICacheMVA                             libs.o
+MMU_SetAsyncBusMode                               libs.o
+MMU_SetDCacheLockdownBase                         libs.o
+MMU_SetDTLBLockdown                               libs.o
+MMU_SetDomain                                     libs.o
+                                                  libc.o
+MMU_SetFastBusMode                                libs.o
+MMU_SetICacheLockdownBase                         libs.o
+MMU_SetITLBLockdown                               libs.o
+MMU_SetMTT                                        libc.o
+MMU_SetProcessId                                  libs.o
+                                                  libc.o
+MMU_SetTTBase                                     libs.o
+                                                  libc.o
+MMU_WaitForInterrupt                              libs.o
+Main                                              Main.o
+                                                  s3c2450_startup.o
+MemDump                                           libc.o
+                                                  Dma.o
+MemFill                                           libc.o
+                                                  Dma.o
+NonPal_Lcd_Init                                   Lcd.o
+                                                  Main.o
+NonPal_Put_Pixel                                  Lcd.o
+                                                  who.o
+                                                  GAME.o
+                                                  Main.o
+Option                                            Main.o
+PIC0                                              Main.o
+PIC1                                              Main.o
+PIC2                                              Main.o
+Pabort_Handler                                    exception.o
+ResetHandler                                      s3c2450_startup.o
+Rtc_Init                                          rtc.o
+                                                  GAME.o
+SET_IF                                            libs.o
+SUM_OF_DEC                                        libs.o
+SWI_Handler                                       exception.o
+Sum_num                                           GAME.o
+                                                  Main.o
+TIMER_buffer                                      Lcd.o
+                                                  rtc.o
+                                                  GAME.o
+Timer0_ISR                                        Key.o
+Timer1_ISR                                        rtc.o
+Timer2_ISR                                        GAME.o
+Timer3_ISR                                        buzzer.o
+Timer_Delay_0                                     Timer.o
+                                                  Key.o
+Timer_Delay_1                                     Timer.o
+                                                  GAME.o
+Timer_Delay_2                                     Timer.o
+                                                  GAME.o
+Timer_Delay_3                                     Timer.o
+                                                  buzzer.o
+Timer_Init                                        Timer.o
+                                                  GAME.o
+                                                  Key.o
+Touch_ISR                                         exception.o
+Touch_Init                                        Touch.o
+                                                  Main.o
+Touch_Pressed                                     exception.o
+                                                  GAME.o
+                                                  Main.o
+Uart_Get_Char                                     Uart.o
+Uart_Init                                         Uart.o
+Uart_Printf                                       Uart.o
+                                                  buzzer.o
+                                                  Dma.o
+                                                  GAME.o
+                                                  Key.o
+                                                  exception.o
+                                                  libc.o
+Uart_Send_Byte                                    Uart.o
+Uart_Send_String                                  Uart.o
+                                                  exception.o
+Undef_Handler                                     exception.o
+WR_IF                                             libs.o
+Who_fuction                                       who.o
+                                                  Main.o
+_Balloc                                           /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+_Bfree                                            /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+_PathLocale                                       /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__adddf3                                          /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__aeabi_cdcmpeq                                   /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdcmple                                   /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdrcmple                                  /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__aeabi_d2iz                                      /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  exception.o
+__aeabi_d2uiz                                     /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixunsdfsi.o)
+                                                  Timer.o
+                                                  Uart.o
+__aeabi_dadd                                      /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  Uart.o
+__aeabi_dcmpeq                                    /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+__aeabi_dcmpge                                    /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__aeabi_dcmpgt                                    /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__aeabi_dcmple                                    /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__aeabi_dcmplt                                    /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+__aeabi_ddiv                                      /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  exception.o
+                                                  Uart.o
+__aeabi_dmul                                      /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  Timer.o
+                                                  exception.o
+__aeabi_drsub                                     /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__aeabi_dsub                                      /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  exception.o
+__aeabi_f2d                                       /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__aeabi_i2d                                       /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  Timer.o
+                                                  exception.o
+                                                  Uart.o
+__aeabi_idiv0                                     /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+                                                  /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+__aeabi_l2d                                       /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__aeabi_ldiv0                                     /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_dvmd_tls.o)
+                                                  /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+__aeabi_ui2d                                      /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__aeabi_uidiv                                     /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+                                                  /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                                                  /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  Lcd.o
+__aeabi_uidivmod                                  /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+                                                  /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                                                  /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+__aeabi_ul2d                                      /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__aeabi_uldivmod                                  /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+__any_on                                          /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+__b2d                                             /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+__clzsi2                                          /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_clzsi2.o)
+                                                  /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                                                  /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+__cmpdf2                                          /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__copybits                                        /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+__d2b                                             /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__divdf3                                          /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+__divdi3                                          /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_divdi3.o)
+                                                  /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+__eqdf2                                           /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__extendsfdf2                                     /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__fixdfsi                                         /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixdfsi.o)
+__fixunsdfsi                                      /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_fixunsdfsi.o)
+__floatdidf                                       /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__floatsidf                                       /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__floatundidf                                     /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__floatunsidf                                     /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__fpclassifyd                                     /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-s_fpclassify.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+__gedf2                                           /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__gnu_ldivmod_helper                              /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+__gnu_uldivmod_helper                             /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+                                                  /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_aeabi_uldivmod.o)
+__gtdf2                                           /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__hi0bits                                         /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__i2b                                             /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__ledf2                                           /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__lo0bits                                         /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+__locale_charset                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__locale_cjk_lang                                 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__locale_mb_cur_max                               /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__locale_msgcharset                               /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__lshift                                          /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__ltdf2                                           /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__malloc_av_                                      /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+__malloc_current_mallinfo                         /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+__malloc_lock                                     /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+__malloc_max_sbrked_mem                           /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+__malloc_max_total_mem                            /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+__malloc_sbrk_base                                /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+__malloc_top_pad                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+__malloc_trim_threshold                           /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+__malloc_unlock                                   /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+__mb_cur_max                                      /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__mcmp                                            /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__mdiff                                           /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__mlocale_changed                                 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__mprec_bigtens                                   /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__mprec_tens                                      /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__mprec_tinytens                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+__muldf3                                          /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_muldivdf3.o)
+__multadd                                         /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__multiply                                        /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__nedf2                                           /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_cmpdf2.o)
+__nlocale_changed                                 /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+__pow5mult                                        /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+__ratio                                           /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+__s2b                                             /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+__ssprint_r                                       /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+__subdf3                                          /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_arm_addsubdf3.o)
+__udivdi3                                         /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivdi3.o)
+                                                  /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(bpabi.o)
+__udivsi3                                         /root/arm-2011.03/lib/gcc/arm-none-eabi/4.5.2/libgcc.a(_udivsi3.o)
+__ulp                                             /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+_calloc_r                                         /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+_dtoa_r                                           /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+_free_r                                           /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+_global_impure_ptr                                /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+_impure_ptr                                       /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+_localeconv_r                                     /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+_malloc_r                                         /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+_malloc_trim_r                                    /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+_mprec_log10                                      /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+_realloc_r                                        /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+_reclaim_reent                                    /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+_sbrk                                             s3c2450_startup.o
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+_sbrk_r                                           /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+_setlocale_r                                      /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+_start                                            s3c2450_startup.o
+_svfiprintf_r                                     /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+_svfprintf_r                                      /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+_vsprintf_r                                       /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+_wrapup_reent                                     /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+background                                        Main.o
+background_buffer                                 Lcd.o
+                                                  Main.o
+bss_end_addr                                      s3c2450_startup.o
+bss_start_addr                                    s3c2450_startup.o
+char_buffer                                       Lcd.o
+                                                  who.o
+cleanup_glue                                      /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+d_min                                             rtc.o
+                                                  GAME.o
+                                                  Main.o
+d_sec                                             rtc.o
+                                                  GAME.o
+                                                  Main.o
+data_end_addr                                     s3c2450_startup.o
+data_start_addr                                   s3c2450_startup.o
+dst                                               Dma.o
+eng8x16                                           Lcd.o
+errno                                             /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+free                                              libc.o
+fullscreen_buffer_1                               Lcd.o
+                                                  GAME.o
+fullscreen_buffer_2                               Lcd.o
+                                                  GAME.o
+fullscreen_buffer_3                               Lcd.o
+                                                  GAME.o
+lim                                               Main.o
+limit_time                                        Main.o
+localeconv                                        /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+malloc                                            libc.o
+mallocPt                                          libc.o
+memchr                                            /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+memcpy                                            /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-mprec.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-dtoa.o)
+memmove                                           /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+memset                                            /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-callocr.o)
+menu_select                                       Key.o
+                                                  Main.o
+min                                               rtc.o
+                                                  GAME.o
+o                                                 Main.o
+pattern                                           Dma.o
+rodata_end_addr                                   s3c2450_startup.o
+run                                               Main.o
+sec                                               rtc.o
+setlocale                                         /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+size                                              Dma.o
+src                                               Dma.o
+start_timer0                                      libc.o
+stop_timer0                                       libc.o
+strcmp                                            /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-strcmp.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-locale.o)
+strlen                                            /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfiprintf.o)
+                                                  /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-svfprintf.o)
+temp                                              rtc.o
+time                                              libc.o
+vsprintf                                          /root/arm-2011.03/arm-none-eabi/lib/libc.a(lib_a-vsprintf.o)
+                                                  Uart.o
+                                                  Lcd.o
+x                                                 Main.o
